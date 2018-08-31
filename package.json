@@ -1,0 +1,25 @@
+{
+  "name": "cdmx-2018-01-fe-markdown",
+  "version": "1.0.0",
+  "description": "Audite archivos Markdown encontrando links rotos y expresarlos en terminal",
+  "main": "md-links.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaquelGlez/cdmx-2018-01-FE-markdown.git"
+  },
+  "author": "Raquel Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaquelGlez/cdmx-2018-01-FE-markdown/issues"
+  },
+  "homepage": "https://github.com/RaquelGlez/cdmx-2018-01-FE-markdown#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  },
+  "dependencies": {
+    "jest": "^23.5.0"
+  }
+}
