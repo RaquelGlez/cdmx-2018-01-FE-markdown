@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest --coverage"
   },
+  "bin": {
+    "md-links": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RaquelGlez/cdmx-2018-01-FE-markdown.git"
